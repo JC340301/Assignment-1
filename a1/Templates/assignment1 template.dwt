@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>~Welcome to CossiePlay~</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/assignment1 css.css" rel="stylesheet" type="text/css">
+</head>
+
+<body id="Body">
+<h1 id="Banner">CossiePlay </h1>
+<table id="Nav_Bar">
+	<tr>
+      	<td><a href="../index.html"><span title="Return to Homepage">Home</span></a></td>
+      	<td><a href="../announcements.html"><span title="Latest news and updates">Announcements</span></a></td>
+      	<td>
+        	<div class="dropdown">Resources
+            	<div class="dropdown-content">
+            		<a href="../what is cosplay.html"><span title="What is CosPlay?">CosPlay</span></a>
+                	<a href="../gallery.html"><span title="Check out our gallery">Gallery</span></a>
+                	<a href="../old costumes.html"><span title="Take a look at our price list of second handed costumes">Old Costumes</span></a>
+                	<a href="../useful links.html"><span title="Useful links">Links</span></a>
+                </div>
+            </div>
+        </td>
+      	<td>
+        	<div class="dropdown">Contact
+            	<div class="dropdown-content">
+            		<a href="../contact us.html"><span title="Our contact information">Contact us</span></a>
+                	<a href="../sign up.html"><span title="Sign up for the party now!">Sign up</span></a>
+            	</div>
+            </div>
+        </td>
+	</tr>
+</table>
+<!-- TemplateBeginEditable name="Content" -->
+Content
+<!-- TemplateEndEditable -->
+
+<p id="Footer">© 2016, CossiePlay Pte Ltd. All Rights Reserved</p>
+</body>
+</html>
